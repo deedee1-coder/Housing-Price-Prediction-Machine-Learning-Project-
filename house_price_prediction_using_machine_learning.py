@@ -113,4 +113,4 @@ grid_search.fit(X_train_s, y_train)
 
 grid_search.best_estimator_
 
-grid_search.best_estimator_.score(X _test_s, y_test)
+grid_search.best_estimator_.score(X_test_s, y_test)
